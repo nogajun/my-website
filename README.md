@@ -10,3 +10,6 @@
 ## 公開URL
 
 (第7回で記入します)
+
+
+![CI](https://github.com/nogajun/my-website/actions/workflows/ci.yml/badge.svg)
